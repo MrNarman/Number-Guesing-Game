@@ -30,6 +30,7 @@ To run the game, simply execute the `App.py` file using Python:
 
 
 This will start the game, and you can begin guessing the number.
+Have Fun!
 
 ## Contributing
 
